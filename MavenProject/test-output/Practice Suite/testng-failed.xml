@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Practice Suite]">
+  <test name="Test Basics 2(failed)">
+    <classes>
+      <class name="testpackage.seleniumDockerExecution">
+        <methods>
+          <include name="sample1"/>
+        </methods>
+      </class> <!-- testpackage.seleniumDockerExecution -->
+    </classes>
+  </test> <!-- Test Basics 2(failed) -->
+</suite> <!-- Failed suite [Practice Suite] -->
