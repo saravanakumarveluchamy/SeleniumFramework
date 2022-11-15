@@ -52,8 +52,9 @@ public class seleniumDockerExecution {
 		
 		options.merge(capabilities);
 		
+		
 		//ChromeDriver driver = new ChromeDriver(options);
-		WebDriver driver=new RemoteWebDriver(new URL("http://0.0.0.0:4444/wd/hub"),options);
+		WebDriver driver=new RemoteWebDriver(new URL("http://172.17.0.3:4444/wd/hub"),options);
 		/////WebDriver driver=new RemoteWebDriver(new URL("http://127.0.0.1:58486"),options);
 		
 		// System.setProperty("webdriver.chrome.driver", "chromedriver.exe");  
