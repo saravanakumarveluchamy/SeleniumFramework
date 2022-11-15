@@ -1,5 +1,6 @@
 package testpackage;
 
+import java.io.File;
 import java.net.MalformedURLException;
 import java.net.URL;
 
@@ -55,7 +56,7 @@ public class seleniumDockerExecution {
 		//WebDriver driver=new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"),options);
 		/////WebDriver driver=new RemoteWebDriver(new URL("http://127.0.0.1:58486"),options);
 		
-		 System.setProperty("webdriver.chrome.driver", "/resources/chromedriver.exe");  
+		 System.setProperty("webdriver.chrome.driver", "chromedriver.exe");  
          System.out.println("SAmple");
          // Instantiate a ChromeDriver class.     
 		WebDriver driver=new ChromeDriver();  
