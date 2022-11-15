@@ -2,16 +2,16 @@
 <testng-results total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-15T18:04:07Z" name="Default suite" finished-at="2022-11-15T18:04:13Z" duration-ms="6416">
+  <suite started-at="2022-11-15T18:07:54Z" name="Default suite" finished-at="2022-11-15T18:08:00Z" duration-ms="5556">
     <groups>
     </groups>
-    <test started-at="2022-11-15T18:04:07Z" name="Default test" finished-at="2022-11-15T18:04:13Z" duration-ms="6416">
+    <test started-at="2022-11-15T18:07:54Z" name="Default test" finished-at="2022-11-15T18:08:00Z" duration-ms="5556">
       <class name="testpackage.seleniumDockerExecution">
-        <test-method signature="sample1()[pri:0, instance:testpackage.seleniumDockerExecution@65c7a252]" started-at="2022-11-15T23:34:07Z" name="sample1" finished-at="2022-11-15T23:34:13Z" duration-ms="6394" status="PASS">
+        <test-method signature="sample1()[pri:0, instance:testpackage.seleniumDockerExecution@65c7a252]" started-at="2022-11-15T23:37:54Z" name="sample1" finished-at="2022-11-15T23:38:00Z" duration-ms="5533" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sample1 -->
-        <test-method signature="sample2()[pri:0, instance:testpackage.seleniumDockerExecution@65c7a252]" started-at="2022-11-15T23:34:13Z" name="sample2" finished-at="2022-11-15T23:34:13Z" duration-ms="2" status="PASS">
+        <test-method signature="sample2()[pri:0, instance:testpackage.seleniumDockerExecution@65c7a252]" started-at="2022-11-15T23:38:00Z" name="sample2" finished-at="2022-11-15T23:38:00Z" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sample2 -->
