@@ -58,7 +58,7 @@ public class seleniumDockerExecution {
 		/////WebDriver driver=new RemoteWebDriver(new URL("http://127.0.0.1:58486"),options);
 		
 		// System.setProperty("webdriver.chrome.driver", "chromedriver.exe");  
-         System.out.println("SAmple");
+         System.out.println("saravana");
          // Instantiate a ChromeDriver class.     
 	//	WebDriver driver=new ChromeDriver();  
 		driver.get("http://demo.guru99.com/test/simple_context_menu.html");
